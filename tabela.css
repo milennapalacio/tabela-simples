@@ -1,0 +1,19 @@
+table {
+    margin: 10px;
+    border-color:  #be0001;
+    background-color: #f3c75f;
+    color: #2f003f;
+}
+
+thead {
+    background-color: #f5b04b;
+}
+
+tbody, thead {
+    text-align: center;
+}
+
+.um:hover {
+    background-color: #000000;
+    color: white;
+}
